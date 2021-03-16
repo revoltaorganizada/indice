@@ -1,2 +1,2 @@
-# indice
-Índice do blog Revolução: revolta organizada.
+# blog
+Blog "Revolução: revolta organizada"
